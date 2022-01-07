@@ -4,11 +4,11 @@
   "description": "Pruebas automatizadas de tienda de ropa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "repository": {
     "type": "git",
-    "url": "automation cypress"
+    "url": "https://github.com/Rgmatos2209/tienda-de-ropa-cypress"
   },
   "author": "",
   "license": "ISC",
