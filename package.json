@@ -1,16 +1,18 @@
 {
-  "name": "tiendaderopa",
+  "name": "pruebacarrito",
   "version": "1.0.0",
-  "description": "Pruebas automatizadas de tienda de ropa",
+  "description": "PurebasParaComprarConElCarrito",
   "main": "index.js",
+  "repository": "https://github.com/users/Rgmatos2209",
   "scripts": {
-    "test": "npx cypress run"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Rgmatos2209/tienda-de-ropa-cypress"
-  },
-  "author": "",
+  "keywords": [
+    "QA",
+    "atomation",
+    "cypress"
+  ],
+  "author": "RGM",
   "license": "ISC",
   "dependencies": {
     "cypress": "^9.2.0"
